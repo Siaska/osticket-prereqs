@@ -36,7 +36,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 2. Create a new VM using Windows 10 21H2
 3. Configure networking and open port 3389 for RDP access
 
-![Azure VM Creation](https://via.placeholder.com/800x400.png?text=Azure+VM+Creation)
 
 ---
 
@@ -44,7 +43,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 1. Use Remote Desktop Connection on your local machine
 2. Input the VM's public IP address and login credentials
 
-![Remote Desktop](https://via.placeholder.com/800x400.png?text=Remote+Desktop+Connection)
 
 ---
 
@@ -53,7 +51,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 2. Check **Internet Information Services**
 3. Restart and verify by visiting `http://localhost`
 
-![IIS Installation](https://via.placeholder.com/800x400.png?text=IIS+Installation)
 
 ---
 
@@ -63,7 +60,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 3. Add PHP to system environment variables
 4. Configure IIS to recognize `.php` file extension
 
-![PHP Setup](https://via.placeholder.com/800x400.png?text=PHP+Configuration)
 
 ---
 
@@ -72,7 +68,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 2. Set a root password during setup
 3. Create a new database for osTicket
 
-![MySQL Setup](https://via.placeholder.com/800x400.png?text=MySQL+Installation)
 
 ---
 
@@ -82,7 +77,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 3. Set appropriate folder permissions
 4. Open `http://localhost/osticket` and follow the web installer
 
-![osTicket Web Setup](https://via.placeholder.com/800x400.png?text=osTicket+Web+Installer)
 
 ---
 
@@ -90,7 +84,6 @@ osTicket is a free and open-source support ticket system designed for managing c
 1. Rename or delete the `/setup` directory
 2. Login to the osTicket admin panel to confirm setup was successful
 
-![osTicket Dashboard](https://via.placeholder.com/800x400.png?text=osTicket+Dashboard)
 
 ---
 
